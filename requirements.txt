@@ -1,1 +1,1 @@
-import geocoder
+geocoder ==1.38.1
